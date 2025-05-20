@@ -9,11 +9,8 @@ This is my first Directory
 Git Repository
 
 <br>
-Author - Sakshi Joshi (New Page)
+Author - Sakshi Joshi 
 
 
-
-<br>
-My Files 
 
 
